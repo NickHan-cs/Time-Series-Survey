@@ -10,7 +10,7 @@
 
 > 时间序列预测
 
-**Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks**. Andrea Cini, Ivan Marisca, Cesare Alippi. ICLR 2022. [paper](https://openreview.net/forum?id=kOu3-S3wJ7)
+**Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks**. Andrea Cini, Ivan Marisca, Cesare Alippi. ICLR 2022. [paper](https://openreview.net/forum?id=kOu3-S3wJ7)
 
 > 时间序列预测
 
@@ -26,7 +26,7 @@
 
 > 时间序列预测
 
-**Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future**. Harshavardhan Kamarthi, Alexander Rodríguez, B. Aditya Prakash. ICLR 2022. [paper](https://zhuanlan.zhihu.com/p/466833187)
+**Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future**. Harshavardhan Kamarthi, Alexander Rodríguez, B. Aditya Prakash. ICLR 2022. [paper](https://openreview.net/forum?id=L01Nn_VJ9i)
 
 > 时间序列预测
 
@@ -50,7 +50,7 @@
 
 > 不规则采用的多元时间序列分析方法
 
-**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**. Enyan Dai, Jie Chen. ICLR 2022. [paper](https://openreview.net/forum?id=45L_dgP48Vd)
+**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**. Enyan Dai(Pennsylvania State University), Jie Chen. ICLR 2022. [paper](https://openreview.net/forum?id=45L_dgP48Vd) [code](https://github.com/EnyanDai/GANF)
 
 > 时间序列异常检测
 
@@ -78,9 +78,9 @@
 
 > 时间序列聚类
 
-**Towards a Rigorous Evaluation of Time-series Anomaly Detection**. Siwon Kim, Kukjin Choi, Hyun-Soo Choi, Byunghan Lee, Sungroh Yoon. AAAI 2022. [paper](https://arxiv.org/abs/2109.05257)
+**Towards a Rigorous Evaluation of Time-series Anomaly Detection**. Siwon Kim(Seoul National University), Kukjin Choi, Hyun-Soo Choi, Byunghan Lee, Sungroh Yoon. AAAI 2022. [paper](https://arxiv.org/abs/2109.05257)
 
-> 时间序列异常检测综述
+> 时间序列异常检测
 
 **Learning Temporal Point Processes for Efficient Retrieval of Continuous Time Event Sequences**. AAAI 2022.
 
@@ -112,13 +112,15 @@
 
 > 时间序列预测
 
+**Adjusting for Autocorrelated Errors in Neural Networks for Time Series**. Fan-Keng Sun(MIT), Christopher I. Lang, Duane S. Boning. NeurIPS 2021. [paper](https://arxiv.org/abs/2101.12578) [code](https://github.com/Daikon-Sun/AdjustAutocorrelation)
+
+> 时间序列预测
+
 **Deep Explicit Duration Switching Models for Time Series**. Abdul Fatir Ansari(NUS), Konstantinos Benidis, Richard Kurle, Ali Caner Turkmen, Harold Soh, Alexander J. Smola, Yuyang Wang, Tim Januschowski. NeurIPS 2021. [paper](https://arxiv.org/abs/2110.13878)
 
 **Online false discovery rate control for anomaly detection in time series**. Quentin Rebjock(Swiss Federal Institute of Technology Lausanne), Barış Kurt, Tim Januschowski, Laurent Callot. NeurIPS 2021. [paper](https://arxiv.org/abs/2112.03196)
 
 > 时间序列异常检测
-
-**Adjusting for Autocorrelated Errors in Neural Networks for Time Series**. Fan-Keng Sun(MIT), Christopher I. Lang, Duane S. Boning. NeurIPS 2021. [paper](https://arxiv.org/abs/2101.12578)
 
 **CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation**. Yusuke Tashiro(Japan Digital Design), Jiaming Song, Yang Song, Stefano Ermon. NeurIPS 2021. [paper](https://arxiv.org/abs/2107.03502)
 
@@ -140,11 +142,15 @@
 
 > 时间序列预测
 
-**Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**. Yuzhou Chen, Ignacio Segovia, Yulia R. Gel. ICML 2021. [paper](http://proceedings.mlr.press/v139/chen21o.html) [code](https://github.com/Z-GCNETs/Z-GCNETs)
+**Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**. Yuzhou Chen(Southern Methodist University), Ignacio Segovia, Yulia R. Gel. ICML 2021. [paper](https://arxiv.org/abs/2105.04100) [code](https://github.com/Z-GCNETs/Z-GCNETs)
 
 > 时间序列预测
 
 **End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series**. Syama Sundar Rangapuram, Lucien D Werner, Konstantinos Benidis, Pedro Mercado, Jan Gasthaus, Tim Januschowski. ICML 2021. [paper](http://proceedings.mlr.press/v139/rangapuram21a.html) [code](https://github.com/awslabs/gluon-ts)
+
+> 时间序列预测
+
+**Explaining Time Series Predictions with Dynamic Masks**. Jonathan Crabbé, Mihaela Van Der Schaar. ICML 2021. [paper](http://proceedings.mlr.press/v139/crabbe21a.html) [code](https://github.com/JonathanCrabbe/Dynamask)
 
 > 时间序列预测
 
@@ -154,13 +160,9 @@
 
 **Whittle Networks: A Deep Likelihood Model for Time Series**. Zhongjie Yu, Fabrizio G Ventola, Kristian Kersting. ICML 2021. [paper](http://proceedings.mlr.press/v139/yu21c.html) [code](https://github.com/ml-research/WhittleNetworks)
 
-**Explaining Time Series Predictions with Dynamic Masks**. Jonathan Crabbé, Mihaela Van Der Schaar. ICML 2021. [paper](http://proceedings.mlr.press/v139/crabbe21a.html) [code](https://github.com/JonathanCrabbe/Dynamask)
-
-> 时间序列预测
-
 [**ICML 2021 Workshop**](http://roseyu.com/time-series-workshop/index.html)
 
-**MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series Classification**. Angus Dempster(Monash University), Daniel F. Schmidt, Geoffrey I. Webb. KDD 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467231) [code](https://github.com/angus924/minirocket)
+**MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification**. Angus Dempster(Monash University), Daniel F. Schmidt, Geoffrey I. Webb. KDD 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467231) [code](https://github.com/angus924/minirocket)
 
 > 时间序列分类
 
@@ -196,6 +198,10 @@
 
 > 时间序列异常检测
 
+**Time2Grpah+: Bridging Time Series and Graph Representation Learning via Multiple Attentions**. Ziqiang Cheng(ZJU), Yang Yang, Shuo Jiang, Wenjie Hu, Zhangchi Ying, Ziwei Chai, Chunping Wang. IEEE TKDE 2021. [paper](https://ieeexplore.ieee.org/document/9477138) [code](https://github.com/petecheng/Time2GraphPlus)
+
+> Shapelet+Graph
+
 **EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting**. Razvan-Gabriel Cirstea(Aalborg University), Tung Kieu, Chenjuan Guo, Bin Yang, Sinno Jialin Pan. IEEE ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458855)
 
 > 时间序列预测
@@ -213,10 +219,6 @@
 > 多元时间序列无监督异常检测
 
 **GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme**. Yi Lu(FDU), Peng Wang, Bo Tang, Shen Liang, Chen Wang, Wei Wang, Jianmin Wang. IEEE ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458905)
-
-**Efficient Shapelet Discovery for Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun. IEEE ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458803)
-
-> 时间序列分类
 
 **Time-Aware Multi-Scale RNNs for Time Series Modeling**. Zipeng Chen, Qianli Ma, Zhenxi Lin. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/315) [code](https://github.com/qianlima-lab/TAMS-RNNs)
 
@@ -272,7 +274,7 @@
 
 **ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
 
-> 多元时间序列分类
+> 多元时间序列分类，Shapelet+神经网络
 
 **Joint-Label Learning by Dual Augmentation for Time Series Classification**. Qianli Ma(South China University of Technology), Zhenjing Zheng, Jiawei Zheng, Sen Li, Wanqing Zhuang, Garrison W. Cottrell. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17071)
 
@@ -362,15 +364,67 @@
 
 > 时间序列相似性
 
+**Time-Series Event Prediction with Evolutionary State Graph**. Wenjie Hu(ZJU), Yang Yang, Ziqiang Cheng, Carl Yang, Xiang Ren. WSDM 2021. [paper](https://arxiv.org/abs/1905.05006) [code](https://github.com/VachelHU/EvoNet)
+
+> Shapelet+Graph
+
+**Learning multivariate shapelets with multi-layer neural networks for interpretable time-series classification**. Roberto Medico(Ghent University), Joeri Ruyssinck, Dirk Deschrijver, Tom Dhaene. ADAC 2021. [paper](https://link.springer.com/article/10.1007/s11634-021-00437-8)
+
+> 时间序列分类，Shapelet+神经网络
+
+**MultiRocket: Effective summary statistics for convolutional outputs in time series classification**. Chang Wei Tan(Monash University), Angus Dempster, Christoph Bergmeir, Geoffrey I. Webb. arXiv 2021. [paper](https://arxiv.org/abs/2102.00457) [code](https://github.com/ChangWeiTan/MultiRocket)
+
+> 时间序列分类
+
+--2020--
+
+**Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. Zonghan Wu(University of Technology Sydney), Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403118) [code](https://github.com/nnzhan/MTGNN)
+
+> 多元时间序列预测
+
+**Efficient Shapelet Discovery for Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. IEEE TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9458803)
+
+> 时间序列分类, Shapelet
+
+**Adversarial Dynamic Shapelet Networks**. Qianli Ma(South China University of Technology), Wanqing Zhuang, Sen Li, Desen Huang, Garrison Cottrell. AAAI 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5948) [code](https://github.com/qianlima-lab/ADSN)
+
+> Shapelet增强（Dynamic Shapelet）
+
+**Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets**. Ziqiang Cheng(ZJU), Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, Guojie Song. AAAI 2020. [paper](https://arxiv.org/abs/1911.04143) [code](https://github.com/petecheng/Time2Graph)
+
+> Shapelet+Graph
+
+**ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels**. Angus Dempster(Monash University), François Petitjean, Geoffrey I. Webb. DMKD 2020. [paper](https://arxiv.org/abs/1910.13051) [code](https://github.com/angus924/rocket)
+
+> 时间序列分类
+
 --2019--
 
+**Deep learning for time series classification: a review**. Hassan Ismail Fawaz(Universit´e Haute Alsac), Germain Forestier, Jonathan Weber, Lhassane Idoumghar, Pierre-Alain Muller. DMKD 2019. [paper](https://arxiv.org/abs/1809.04356)
+
+> 时间序列分类综述
+
 **DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction**. Yeqi Liu(China Agricultural University), Chuanyang Gong, Ling Yang, Yingyi Chen. CoRR 2019. [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
+
+--2018--
+
+**Learning Multivariate Shapelets with Multi-Layer Neural Networks**. Roberto Medico(Ghent University), Joeri Ruyssinck, Dirk Deschrijver, Tom Dhaene. ACDL 2018. [paper](https://biblio.ugent.be/publication/8569397/file/8569684)
+
+> Shapelet+神经网络
 
 --2017--
 
 **A Multi-Horizon Quantile Recurrent Forecaster**. Ruofeng Wen(Amazon AI Lab), Kari Torkkola, Balakrishnan Narayanaswamy, Dhruv Madeka. NeurIPS 2017. [paper](https://arxiv.org/abs/1711.11053) [code](https://github.com/ErezSC42/qr_forcaster)
 
 **A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction**. Yao Qin(UCSD), Dongjin Song, Haifeng Chen, Wei Cheng, Guofei Jiang, Garrison W. Cottrell. IJCAI 2017. [paper](https://www.ijcai.org/proceedings/2017/0366) [code](https://github.com/chensvm/A-Dual-Stage-Attention-Based-Recurrent-Neural-Network-for-Time-Series-Prediction)
+
+**The Great Time Series Classification Bake Off: An Experimental Evaluation of Recently Proposed Algorithms. Extended Version**. Anthony Bagnall(University of East Anglia), Aaron Bostrom, James Large, Jason Lines. DMKD 2017. [paper](https://arxiv.org/abs/1602.01711)
+
+> 时间序列分类综述
+
+**A Shapelet Transform for Multivariate Time Series Classification**. Aaron Bostrom(University of East Anglia), Anthony Bagnall. arXiv 2017. [paper](https://arxiv.org/abs/1712.06428)
+
+> 时间序列分类，Shapelet
 
 **Long-term Forecasting using Higher Order Tensor RNNs**. Rose Yu(Caltech), Stephan Zheng, Anima Anandkumar, Yisong Yue. arXiv 2017. [paper](https://openreview.net/forum?id=HJJ0w--0W) [code](https://github.com/yuqirose/tensor_train_RNN)
 
@@ -383,3 +437,59 @@
 **Bayesian Intermittent Demand Forecasting for Large Inventories**. Matthias W. Seeger(Amazon), David Salinas, Valentin Flunkert. NeurIPS 2016. [paper](https://papers.nips.cc/paper/2016/hash/03255088ed63354a54e0e5ed957e9008-Abstract.html)
 
 > classical method
+
+**Efficient Learning of Timeseries Shapelets**. Lu Hou(HKUST), James Kwok, Jacek Zurada. AAAI 2016. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10178) [code](https://github.com/houlu369/FLAG_shapelets)
+
+> Shapelet增强
+
+**Matrix Profile I: All Pairs Similarity Joins for Time Series: A Unifying View That Includes Motifs, Discords and Shapelets**. Chin-Chia Michael Yeh(University of California, Riverside), Yan Zhu, Liudmila Ulanova, Nurjahan Begum, Yifei Ding, Hoang Anh Dau, Diego Furtado Silva, Abdullah Mueen, Eamonn Keogh. IEEE ICDM 2016. [paper](https://ieeexplore.ieee.org/document/7837992)
+
+> Shapelet聚类
+
+**Fast Classification of Univariate and Multivariate Time series Through Shapelets Discovery**. Josif Grabocka(University of Hildesheim), Martin Wistuba, Lars Schmidt-Thieme. KIS 2016. [paper](https://www.ismll.uni-hildesheim.de/pub/pdfs/grabocka2015b.pdf)
+
+> 多元时间序列分类，Shapelet
+
+--2015--
+
+**Scalable Clustering of Time Series with U-Shapelets**. Liudmila Ulanova(University of California, Riverside), Nurjahan Begum, Eamonn Keogh. SDM 2015. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974010.101)
+
+> 时间序列聚类，Shapelet聚类
+
+--2014--
+
+**Learning Time-Series Shapelets**. Josif Grabocka(University of Hildesheim), Nicolas Schilling, Martin Wistuba, Lars Schmidt-Thieme. KDD 2014. [paper](https://dl.acm.org/doi/10.1145/2623330.2623613) [code](https://github.com/mohaseeb/shaplets-python)
+
+> Shapelet增强（Learning Shapelets）
+
+**Classification of time series by shapelet transformation**. Jon Hills(University of East Anglia), Jason Lines, Edgaras Baranauskas, James Mapp, Anthony Bagnall. DMKD 2014. [paper](https://link.springer.com/article/10.1007/s10618-013-0322-1)
+
+> 时间序列分类，Shapelet增强
+
+--2013--
+
+**Fast-Shapelets: A Fast Algorithm for Discovering Time Series Shapelets**. Thanawin Rakthanmanon(Kasetsart University), Eamonn Keogh. SDM 2013. [paper](http://www.cs.ucr.edu/~eamonn/SDM_FastShapelets.pdf) 
+
+> Shapelet增强（Fast-Shapelets）
+
+--2012--
+
+**A Shapelet Transform for Time Series Classification**. Jason Lines(University of East Anglia), Luke M. Davis, Jon Hills, Anthony Bagnall. KDD 2012. [paper](https://dl.acm.org/doi/10.1145/2339530.2339579)
+
+> 时间序列分类，Shapelet Transform
+
+**Clustering Time Series Using Unsupervised-Shapelets**. Jesin Zakaria(University of California, Riverside), Abdullah Mueen, Eamonn Keogh. IEEE ICDM 2012. [paper](https://ieeexplore.ieee.org/document/6413851)
+
+> 时间序列聚类，Shapelet聚类
+
+--2011--
+
+**Logical-Shapelets: An Expressive Primitive for Time Series Classification**. Abdullah Mueen(University of California, Riverside), Eamonn Keogh, Neal Young. KDD 2011. [paper](https://dl.acm.org/doi/10.1145/2020408.2020587)
+
+> 时间序列分类，Shapelet增强（Logical-Shapelets）
+
+--2009--
+
+**Time Series Shapelets: A New Primitive for Data Mining**. Lexiang Ye(University of California, Riverside), Eamonn Keogh. KDD 2009. [paper](https://dl.acm.org/doi/10.1145/1557019.1557122)
+
+> Shapelet
