@@ -272,7 +272,7 @@
 
 > 时间序列分类
 
-**ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
+**ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018) [code](https://www.comp.hkbu.edu.hk/~csgzli/mtsc/)
 
 > 多元时间序列分类，Shapelet+神经网络
 
@@ -411,6 +411,10 @@
 **Learning Multivariate Shapelets with Multi-Layer Neural Networks**. Roberto Medico(Ghent University), Joeri Ruyssinck, Dirk Deschrijver, Tom Dhaene. ACDL 2018. [paper](https://biblio.ugent.be/publication/8569397/file/8569684)
 
 > Shapelet+神经网络
+
+**Efficient Learning Interpretable Shapelets for Accurate Time Series Classification**. Zicheng Fang(FDU), Peng Wang, Wei Wang. ICDE 2018. [paper](https://ieeexplore.ieee.org/document/8509273)
+
+> 时间序列分类，Shapelet
 
 --2017--
 
