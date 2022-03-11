@@ -426,6 +426,10 @@
 
 > 时间序列分类综述
 
+**A Fast Shapelet Discovery Algorithm Based on Important Data Points**. Cun Ji(Shandong University), Chao Zhao, Li Pan, Shijun Liu, Chenglei Yang, Lei Wu. IJWSR 2017. [paper](https://dl.acm.org/doi/abs/10.4018/IJWSR.2017040104)
+
+> Shapelet
+
 **A Shapelet Transform for Multivariate Time Series Classification**. Aaron Bostrom(University of East Anglia), Anthony Bagnall. arXiv 2017. [paper](https://arxiv.org/abs/1712.06428)
 
 > 时间序列分类，Shapelet
