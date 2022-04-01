@@ -40,7 +40,7 @@
 
 **CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting**. Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi. ICLR 2022. [paper](https://openreview.net/forum?id=PilZY3omXV2)
 
-> 时间序列表征学习
+> 时间序列表征学习, contrastive learning
 
 **Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series**. Satya Narayan Shukla, Benjamin Marlin. ICLR 2022. [paper](https://openreview.net/forum?id=Az7opqbQE-3)
 
@@ -102,11 +102,15 @@
 
 > 基于强化学习的时间序列预测
 
-**TS2Vec: Towards Universal Representation of Time Series**. AAAI 2022
+**TS2Vec: Towards Universal Representation of Time Series**. Zhihan Yue(PKU), Yujing Wang, Juanyong Duan, Tianmeng Yang, Congrui Huang, Yunhai Tong, Bixiong Xu. AAAI 2022. [paper](https://arxiv.org/abs/2106.10466) [code](https://github.com/yuezhihan/ts2vec)
 
-> 时间序列表征学习
+> 时间序列表征学习, contrastive learning
 
 --2021--
+
+**Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding**. Sana Tonekaboni(University of Toronto), Danny Eytan, Anna Goldenberg. ICLR 2021. [paper](https://arxiv.org/abs/2106.00750) [code](https://github.com/sanatonek/TNC_representation_learning)
+
+> 时间序列表征学习, contrastive learning
 
 **MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data**. Zhibo Zhu(Ant Group), Ziqi Liu, Ge Jin, Zhiqiang Zhang, Lei Chen, Jun Zhou, Jianyong Zhou. NeurIPS 2021. [paper](https://arxiv.org/abs/2110.14354)
 
@@ -220,11 +224,15 @@
 
 **GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme**. Yi Lu(FDU), Peng Wang, Bo Tang, Shen Liang, Chen Wang, Wei Wang, Jianmin Wang. IEEE ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458905)
 
+**Two Influence Maximization Games on Graphs Made Temporal**. Niclas Boehmer(Technische Universit¨at Berlin), Vincent Froese, Julia Henkel, Yvonne Lasars, Rolf Niedermeier, Malte Renken. IJCAI 2021. [paper](https://arxiv.org/abs/2105.05987)
+
+> contrastive learning
+
 **Time-Aware Multi-Scale RNNs for Time Series Modeling**. Zipeng Chen, Qianli Ma, Zhenxi Lin. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/315) [code](https://github.com/qianlima-lab/TAMS-RNNs)
 
 **Time-Series Representation Learning via Temporal and Contextual Contrasting**. Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/324) [code](https://github.com/emadeldeen24/TS-TCC)
 
-> 时间序列表征学习
+> 时间序列表征学习, contrastive learning
 
 **Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation**. Qiao Liu, Hui Xue. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/378) [code](https://github.com/jarheadjoe/Adv-spec-ker-matching)
 
@@ -399,6 +407,10 @@
 > 时间序列分类
 
 --2019--
+
+**Unsupervised Scalable Representation Learning for Multivariate Time Series**. Jean-Yves Franceschi(Sorbonne Université), Aymeric Dieuleveut, Martin Jaggi. NIPS 2019. [paper](https://arxiv.org/abs/1901.10738)
+
+> 时间序列表征学习, contrastive learning
 
 **Deep learning for time series classification: a review**. Hassan Ismail Fawaz(Universit´e Haute Alsac), Germain Forestier, Jonathan Weber, Lhassane Idoumghar, Pierre-Alain Muller. DMKD 2019. [paper](https://arxiv.org/abs/1809.04356)
 
