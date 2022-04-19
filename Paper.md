@@ -202,10 +202,6 @@
 
 > 时间序列异常检测
 
-**Time2Grpah+: Bridging Time Series and Graph Representation Learning via Multiple Attentions**. Ziqiang Cheng(ZJU), Yang Yang, Shuo Jiang, Wenjie Hu, Zhangchi Ying, Ziwei Chai, Chunping Wang. IEEE TKDE 2021. [paper](https://ieeexplore.ieee.org/document/9477138) [code](https://github.com/petecheng/Time2GraphPlus)
-
-> Shapelet+Graph
-
 **EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting**. Razvan-Gabriel Cirstea(Aalborg University), Tung Kieu, Chenjuan Guo, Bin Yang, Sinno Jialin Pan. IEEE ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458855)
 
 > 时间序列预测
@@ -279,10 +275,6 @@
 **Learnable Dynamic Temporal Pooling for Time Series Classification**. Dongha Lee, Seonghyeon Lee, Hwanjo Yu. AAAI 2021. [paper](https://arxiv.org/abs/2104.02577) [code](https://github.com/donalee/DTW-Pool)
 
 > 时间序列分类
-
-**ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018) [code](https://www.comp.hkbu.edu.hk/~csgzli/mtsc/)
-
-> 多元时间序列分类，Shapelet+神经网络
 
 **Joint-Label Learning by Dual Augmentation for Time Series Classification**. Qianli Ma(South China University of Technology), Zhenjing Zheng, Jiawei Zheng, Sen Li, Wanqing Zhuang, Garrison W. Cottrell. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17071)
 
@@ -372,14 +364,6 @@
 
 > 时间序列相似性
 
-**Time-Series Event Prediction with Evolutionary State Graph**. Wenjie Hu(ZJU), Yang Yang, Ziqiang Cheng, Carl Yang, Xiang Ren. WSDM 2021. [paper](https://arxiv.org/abs/1905.05006) [code](https://github.com/VachelHU/EvoNet)
-
-> Shapelet+Graph
-
-**Learning multivariate shapelets with multi-layer neural networks for interpretable time-series classification**. Roberto Medico(Ghent University), Joeri Ruyssinck, Dirk Deschrijver, Tom Dhaene. ADAC 2021. [paper](https://link.springer.com/article/10.1007/s11634-021-00437-8)
-
-> 时间序列分类，Shapelet+神经网络
-
 **MultiRocket: Effective summary statistics for convolutional outputs in time series classification**. Chang Wei Tan(Monash University), Angus Dempster, Christoph Bergmeir, Geoffrey I. Webb. arXiv 2021. [paper](https://arxiv.org/abs/2102.00457) [code](https://github.com/ChangWeiTan/MultiRocket)
 
 > 时间序列分类
@@ -389,18 +373,6 @@
 **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. Zonghan Wu(University of Technology Sydney), Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403118) [code](https://github.com/nnzhan/MTGNN)
 
 > 多元时间序列预测
-
-**Efficient Shapelet Discovery for Time Series Classification**. Guozhong Li(Hong Kong Baptist University), Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong. IEEE TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9458803)
-
-> 时间序列分类, Shapelet
-
-**Adversarial Dynamic Shapelet Networks**. Qianli Ma(South China University of Technology), Wanqing Zhuang, Sen Li, Desen Huang, Garrison Cottrell. AAAI 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5948) [code](https://github.com/qianlima-lab/ADSN)
-
-> Shapelet增强（Dynamic Shapelet）
-
-**Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets**. Ziqiang Cheng(ZJU), Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, Guojie Song. AAAI 2020. [paper](https://arxiv.org/abs/1911.04143) [code](https://github.com/petecheng/Time2Graph)
-
-> Shapelet+Graph
 
 **ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels**. Angus Dempster(Monash University), François Petitjean, Geoffrey I. Webb. DMKD 2020. [paper](https://arxiv.org/abs/1910.13051) [code](https://github.com/angus924/rocket)
 
@@ -418,16 +390,6 @@
 
 **DSTP-RNN: a dual-stage two-phase attention-based recurrent neural networks for long-term and multivariate time series prediction**. Yeqi Liu(China Agricultural University), Chuanyang Gong, Ling Yang, Yingyi Chen. CoRR 2019. [paper](https://arxiv.org/abs/1904.07464) [code](https://github.com/arleigh418/Paper-Implementation-DSTP-RNN-For-Stock-Prediction-Based-On-DA-RNN)
 
---2018--
-
-**Learning Multivariate Shapelets with Multi-Layer Neural Networks**. Roberto Medico(Ghent University), Joeri Ruyssinck, Dirk Deschrijver, Tom Dhaene. ACDL 2018. [paper](https://biblio.ugent.be/publication/8569397/file/8569684)
-
-> Shapelet+神经网络
-
-**Efficient Learning Interpretable Shapelets for Accurate Time Series Classification**. Zicheng Fang(FDU), Peng Wang, Wei Wang. ICDE 2018. [paper](https://ieeexplore.ieee.org/document/8509273)
-
-> 时间序列分类，Shapelet
-
 --2017--
 
 **A Multi-Horizon Quantile Recurrent Forecaster**. Ruofeng Wen(Amazon AI Lab), Kari Torkkola, Balakrishnan Narayanaswamy, Dhruv Madeka. NeurIPS 2017. [paper](https://arxiv.org/abs/1711.11053) [code](https://github.com/ErezSC42/qr_forcaster)
@@ -437,14 +399,6 @@
 **The Great Time Series Classification Bake Off: An Experimental Evaluation of Recently Proposed Algorithms. Extended Version**. Anthony Bagnall(University of East Anglia), Aaron Bostrom, James Large, Jason Lines. DMKD 2017. [paper](https://arxiv.org/abs/1602.01711)
 
 > 时间序列分类综述
-
-**A Fast Shapelet Discovery Algorithm Based on Important Data Points**. Cun Ji(Shandong University), Chao Zhao, Li Pan, Shijun Liu, Chenglei Yang, Lei Wu. IJWSR 2017. [paper](https://dl.acm.org/doi/abs/10.4018/IJWSR.2017040104)
-
-> Shapelet
-
-**A Shapelet Transform for Multivariate Time Series Classification**. Aaron Bostrom(University of East Anglia), Anthony Bagnall. arXiv 2017. [paper](https://arxiv.org/abs/1712.06428)
-
-> 时间序列分类，Shapelet
 
 **Long-term Forecasting using Higher Order Tensor RNNs**. Rose Yu(Caltech), Stephan Zheng, Anima Anandkumar, Yisong Yue. arXiv 2017. [paper](https://openreview.net/forum?id=HJJ0w--0W) [code](https://github.com/yuqirose/tensor_train_RNN)
 
@@ -457,59 +411,3 @@
 **Bayesian Intermittent Demand Forecasting for Large Inventories**. Matthias W. Seeger(Amazon), David Salinas, Valentin Flunkert. NeurIPS 2016. [paper](https://papers.nips.cc/paper/2016/hash/03255088ed63354a54e0e5ed957e9008-Abstract.html)
 
 > classical method
-
-**Efficient Learning of Timeseries Shapelets**. Lu Hou(HKUST), James Kwok, Jacek Zurada. AAAI 2016. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10178) [code](https://github.com/houlu369/FLAG_shapelets)
-
-> Shapelet增强
-
-**Matrix Profile I: All Pairs Similarity Joins for Time Series: A Unifying View That Includes Motifs, Discords and Shapelets**. Chin-Chia Michael Yeh(University of California, Riverside), Yan Zhu, Liudmila Ulanova, Nurjahan Begum, Yifei Ding, Hoang Anh Dau, Diego Furtado Silva, Abdullah Mueen, Eamonn Keogh. IEEE ICDM 2016. [paper](https://ieeexplore.ieee.org/document/7837992)
-
-> Shapelet聚类
-
-**Fast Classification of Univariate and Multivariate Time series Through Shapelets Discovery**. Josif Grabocka(University of Hildesheim), Martin Wistuba, Lars Schmidt-Thieme. KIS 2016. [paper](https://www.ismll.uni-hildesheim.de/pub/pdfs/grabocka2015b.pdf)
-
-> 多元时间序列分类，Shapelet
-
---2015--
-
-**Scalable Clustering of Time Series with U-Shapelets**. Liudmila Ulanova(University of California, Riverside), Nurjahan Begum, Eamonn Keogh. SDM 2015. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974010.101)
-
-> 时间序列聚类，Shapelet聚类
-
---2014--
-
-**Learning Time-Series Shapelets**. Josif Grabocka(University of Hildesheim), Nicolas Schilling, Martin Wistuba, Lars Schmidt-Thieme. KDD 2014. [paper](https://dl.acm.org/doi/10.1145/2623330.2623613) [code](https://github.com/mohaseeb/shaplets-python)
-
-> Shapelet增强（Learning Shapelets）
-
-**Classification of time series by shapelet transformation**. Jon Hills(University of East Anglia), Jason Lines, Edgaras Baranauskas, James Mapp, Anthony Bagnall. DMKD 2014. [paper](https://link.springer.com/article/10.1007/s10618-013-0322-1)
-
-> 时间序列分类，Shapelet增强
-
---2013--
-
-**Fast-Shapelets: A Fast Algorithm for Discovering Time Series Shapelets**. Thanawin Rakthanmanon(Kasetsart University), Eamonn Keogh. SDM 2013. [paper](http://www.cs.ucr.edu/~eamonn/SDM_FastShapelets.pdf) 
-
-> Shapelet增强（Fast-Shapelets）
-
---2012--
-
-**A Shapelet Transform for Time Series Classification**. Jason Lines(University of East Anglia), Luke M. Davis, Jon Hills, Anthony Bagnall. KDD 2012. [paper](https://dl.acm.org/doi/10.1145/2339530.2339579)
-
-> 时间序列分类，Shapelet Transform
-
-**Clustering Time Series Using Unsupervised-Shapelets**. Jesin Zakaria(University of California, Riverside), Abdullah Mueen, Eamonn Keogh. IEEE ICDM 2012. [paper](https://ieeexplore.ieee.org/document/6413851)
-
-> 时间序列聚类，Shapelet聚类
-
---2011--
-
-**Logical-Shapelets: An Expressive Primitive for Time Series Classification**. Abdullah Mueen(University of California, Riverside), Eamonn Keogh, Neal Young. KDD 2011. [paper](https://dl.acm.org/doi/10.1145/2020408.2020587)
-
-> 时间序列分类，Shapelet增强（Logical-Shapelets）
-
---2009--
-
-**Time Series Shapelets: A New Primitive for Data Mining**. Lexiang Ye(University of California, Riverside), Eamonn Keogh. KDD 2009. [paper](https://dl.acm.org/doi/10.1145/1557019.1557122)
-
-> Shapelet
