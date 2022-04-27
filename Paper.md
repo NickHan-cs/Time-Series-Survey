@@ -66,6 +66,98 @@
 
 > 缺乏标注的时间序列分析
 
+**CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting**. Harshavardhan Kamarthi(Gatech), Lingkai Kong, Alexander Rodríguez, Chao Zhang, B. Aditya Prakash. WWW 2022. [paper](https://arxiv.org/abs/2109.07438) [code](https://github.com/AdityaLab/CAMul)
+
+> 时间序列预测
+
+**EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting**. Sheo Yon Jhin, Jaehoon Lee, Minju Jo, Seungji Kook, Jinsung Jeon, Jihyeon Hyeong, Jayoung Kim, Noseong Park. WWW 2022. [paper](https://arxiv.org/abs/2204.08771)
+
+> 时间序列分类, 时间序列预测
+
+**Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction**. Min Hou(USTC), Chang Xu, Zhi Li, Yang Liu, Weiqing Liu, Enhong Chen, Jiang Bian. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512056) [code](https://github.com/CMLF-git-dev/MRLF)
+
+> 时间序列预测
+
+**A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems**. Tao Huang(Tencent), Pengfei Chen, Ruipeng Li. WWW 2022. [paper]()
+
+> 多元时间序列异常检测
+
+**Neural Predicting Higher-order Patterns in Temporal Networks**. Yunyu Liu(Purdue University), Jianzhu Ma, Pan Li. WWW 2022. [paper](https://arxiv.org/abs/2106.06039) [code](https://github.com/wenwen0319/HIT)
+
+> 时间神经网络
+
+**ONBRA: Rigorous Estimation of the Temporal Betweenness Centrality in Temporal Networks**. Diego Santoro(University of Padova), Ilie Sarpe. WWW 2022. [paper](https://arxiv.org/abs/2203.00653) [code](https://github.com/iliesarpe/onbra)
+
+> 时间神经网络
+
+**Temporal Walk Centrality: Ranking Nodes in Evolving Networks**. Lutz Oettershagen(University of Bonn), Petra Mutzel, Nils M. Kriege. WWW 2022. [paper](https://arxiv.org/abs/2202.03706) [code](https://gitlab.com/tgpublic/twc)
+
+> 时间神经网络
+
+**Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**. Le Yu(BUAA), Guanghui Wu, Leilei Sun, Bowen Du, Weifeng Lv. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512064) [code](https://github.com/yule-BUAA/ETGNN)
+
+> 时间神经网络
+
+**RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph**. Ruijie Wang(UIUC), Zheng Li, Danqing Zhang, Qingyu Yin, Tong Zhao, Bing Yin, Tarek Abdelzaher. WWW 2022. [paper](https://arxiv.org/abs/2202.06129)
+
+> 时空分析
+
+**TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection**.Sijia Li(CAS), Gaopeng Gou, Chang Liu, Chengshang Hou, Zhenzhen Li, Gang Xiong. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512226)
+
+> 时空分析
+
+**TREND: TempoRal Event and Node Dynamics for Graph Representation Learning**. Zhihao Wen(Singapore Management University), Yuan Fang. WWW 2022. [paper](https://arxiv.org/abs/2203.14303) [code](https://github.com/WenZhihao666/TREND)
+
+> 时空分析
+
+**Knowledge-based Temporal Fusion Network for Interpretable Online Video Popularity Prediction**. Shisong Tang(THU), Qing Li, Xiaoteng Ma, Ci Gao, Dingmin Wang, Yong Jiang, Qian Ma, Aoyang Zhang, Hechang Chen. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3511934)
+
+> 时空分析
+
+**Time-aware Entity Alignment using Temporal Relational Attention**. Chengjin Xu(University of Bonn), Fenglong Su, Bo Xiong, Jens Lehmann. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3511922)
+
+> 时间相关性分析
+
+**STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation**. Zhen Yang(THU), Ming Ding, Bin Xu, Hongxia Yang, Jie Tang. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512041) [code](https://github.com/THUDM/STAM)
+
+> 序列分析与搜索推荐
+
+**User Satisfaction Estimation with Sequential Dialogue Act Modeling in Goal-oriented Conversational Systems**. Yang Deng(CUHK), Wenxuan Zhang, Wai Lam, Hong Cheng, Helen Meng. WWW 2022. [paper](https://arxiv.org/abs/2202.02912) [code](https://github.com/dengyang17/usda)
+
+> 序列分析与搜索推荐
+
+**Efficient Online Learning to Rank for Sequential Music Recommendation**. Pedro Dalla Vecchia Chaves(Universidade Federal de Minas Gerais), Bruno L. Pereira, Rodrygo L. T. Santos. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512116)
+
+> 序列分析与搜索推荐
+
+**Filter-enhanced MLP is All You Need for Sequential Recommendation**. Kun Zhou(RUC), Hui Yu, Wayne Xin Zhao, Ji-Rong Wen. WWW 2022. [paper](https://arxiv.org/abs/2202.13556) [code](https://github.com/RUCAIBox/FMLP-Rec)
+
+> 序列分析与搜索推荐
+
+**Intent Contrastive Learning for Sequential Recommendation**. Yongjun Chen(Salesforce Research), Zhiwei Liu, Jia Li, Julian McAuley, Caiming Xiong. WWW 2022. [paper](https://arxiv.org/abs/2202.02519) [code](https://github.com/YChen1993/ICLRec)
+
+> 序列分析与搜索推荐
+
+**Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data**. Jiarui Jin(SJTU), Xianyu Chen, Weinan Zhang, Junjie Huang, Ziming Feng, Yong Yu. WWW 2022. [paper](https://arxiv.org/abs/2202.03097)
+
+> 序列分析与搜索推荐
+
+**Sequential Recommendation via Stochastic Self-Attention**. Ziwei Fan(University of Illinois at Chicago), Zhiwei Liu, Alice Wang, Zahra Nazari, Lei Zheng, Hao Peng, Philip S. Yu. WWW 2022. [paper](https://arxiv.org/abs/2201.06035) [code](https://github.com/zfan20/STOSA)
+
+> 序列分析与搜索推荐
+
+**Sequential Recommendation with Decomposed Item Feature Routing**. Kun Lin(RUC), Zhenlei Wang, Zhipeng Wang, Bo Chen, Shiqi Shen, Xu Chen. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512101)
+
+> 序列分析与搜索推荐
+
+**Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation**. Mingyue Cheng(USTC), Zhiding Liu, Qi Liu, Shenyang Ge, Enhong Chen. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512066) [code](https://github.com/Mingyue-Cheng/NASR)
+
+> 序列分析与搜索推荐
+
+**Unbiased Sequential Recommendation with Latent Confounders**. Zhenlei Wang(RUC), Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. WWW 2022. [paper](https://dl.acm.org/doi/10.1145/3485447.3512092)
+
+> 序列分析与搜索推荐
+
 **I-SEA: Importance Sampling and Expected Alignment-based Deep Distance Metric Learning for Time Series Analysis and Embedding**. AAAI 2022. [paper]()
 
 > 时间序列与度量学习
@@ -299,6 +391,10 @@
 **C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer**. Dongxu Wei, Xiaowei Xu, Haibin Shen, Kejie Huang. AAAI 2021. [paper](https://arxiv.org/abs/2012.08976) [code](https://github.com/wswdx/C2F-FWN)
 
 **Inductive Graph Neural Networks for Spatiotemporal Kriging**. Yuankai Wu, Dingyi Zhuang, Aurelie Labbe, Lijun Sun. AAAI 2021. [paper](https://github.com/Kaimaoge/IGNNK) [code](https://github.com/Kaimaoge/IGNNK)
+
+**RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection**. Qingsong Wen(DAMO Academy), Kai He, Liang Sun, Yingying Zhang, Min Ke, Huan Xu. SIGMOD 2021. [paper](https://dl.acm.org/doi/10.1145/3448016.3452779)
+
+> 周期性检测
 
 **ClaSP - Time Series Segmentation**. Patrick Schäfer(Universität zu Berlin), Arik Ermshaus, Ulf Leser. CIKM 2021. [paper](https://dl.acm.org/doi/10.1145/3459637.3482240) [code](https://github.com/alan-turing-institute/sktime)
 

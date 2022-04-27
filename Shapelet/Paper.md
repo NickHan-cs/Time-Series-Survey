@@ -32,7 +32,21 @@
 
 > Shapelet+Graph
 
+**Adversarial Regularization for Explainable-by-Design Time Series Classification**. Yichang Wang(Univ Rennes), Rémi Emonet, Elisa Fromont, Simon Malinowski, Romain Tavenard. ICTAI 2020. [paper](https://ieeexplore.ieee.org/document/9288259)
+
+> Learning Shapelets, Time Series Classification
+
+--2019--
+
+**Triple-Shapelet Networks for Time Series Classification**. Qianli Ma(South China University of Technology), Wanqing Zhuang, Garrison Cottrell. ICDM 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8970826) [code](https://github.com/qianlima-lab/TSN)
+
+> Learning Shapelets, Time Series Classification
+
 --2018--
+
+**Salient Subsequence Learning for Time Series Clustering**. Qin Zhang(University of Technology Sydney), Jia Wu, Peng Zhang, Guodong Long, Chengqi Zhang. TPAMI 2018. [paper](https://ieeexplore.ieee.org/document/8386690)
+
+> Learning Shapelets, Time Series Clustering
 
 **Efficient Learning Interpretable Shapelets for Accurate Time Series Classification**. Zicheng Fang(FDU), Peng Wang, Wei Wang. ICDE 2018. [paper](https://ieeexplore.ieee.org/document/8509273)
 
